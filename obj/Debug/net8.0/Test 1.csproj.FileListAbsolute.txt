@@ -1,0 +1,14 @@
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\bin\Debug\net8.0\Test 1.exe
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\bin\Debug\net8.0\Test 1.deps.json
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\bin\Debug\net8.0\Test 1.runtimeconfig.json
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\bin\Debug\net8.0\Test 1.dll
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\bin\Debug\net8.0\Test 1.pdb
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\obj\Debug\net8.0\Test 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\obj\Debug\net8.0\Test 1.AssemblyInfoInputs.cache
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\obj\Debug\net8.0\Test 1.AssemblyInfo.cs
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\obj\Debug\net8.0\Test 1.csproj.CoreCompileInputs.cache
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\obj\Debug\net8.0\Test 1.dll
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\obj\Debug\net8.0\refint\Test 1.dll
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\obj\Debug\net8.0\Test 1.pdb
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\obj\Debug\net8.0\Test 1.genruntimeconfig.cache
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Test 1\obj\Debug\net8.0\ref\Test 1.dll
